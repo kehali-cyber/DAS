@@ -11,6 +11,8 @@ def is_prime(number):
 
 print(is_prime(11))  
 
+print("I am learning Git")
+
 
 
 
